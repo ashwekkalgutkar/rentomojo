@@ -87,18 +87,19 @@ const Navbar = () => {
   return (
     <Box className="navcss">
       <HStack spacing={{ base: "5px", md: "8px", lg: "20px" }}>
-        <Box className="logoBox">
+        {/* <Box className="logoBox"> */}
           <Link to={`/${city}`}>
             <Image
               className="logo"
-              borderRadius="full"
-              boxSize={{ base: "40px", md: "60px", lg: "100px" }}
+              // borderRadius="full"
+              width={"60px"}
+              // boxSize={{ base: "40px", md: "60px", lg: "100px" }}
               // src='./imagess/first_Rent.png'
-              src={process.env.PUBLIC_URL + "/imagess/first_Rent.png"}
-              alt="Dan Abramov"
+              src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/o3qd9acvznwgmslknql7"
+              alt="image"
             />
           </Link>
-        </Box>
+        {/* </Box> */}
         <Box className="__logo_none__">
           <Text
             fontSize="30px"
@@ -107,7 +108,7 @@ const Navbar = () => {
             color="tomato"
             fontFamily="sans-serif"
           >
-            <Link to={`/${city}`}> firstRent</Link>
+            <Link to={`/${city}`}> rentmojo </Link>
           </Text>
         </Box>
         <Box className="__location__none__">
