@@ -1,0 +1,210 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.navcss {
+  background-color: #fff;
+  /* background-color: brown; */
+  height: 62px;
+  min-height: 50px;
+  border: 0px solid black;
+  width: 100%;
+  box-shadow: 0 4px 10px 0 rgb(0 0 0 / 16%);
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  transition: background-color 0.4s ease-in;
+  border-radius: 0;
+  z-index: 2999;
+  position: sticky;
+  top: 0;
+  box-sizing: border-box !important;
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Muli, sans-serif !important;
+  /* display: block; */
+  /* position: sticky; */
+  /* overflow: hidden; */
+}
+
+.logo {
+  width: fit-content;
+  /* width: 100px;
+  height: 79px;
+  border-radius: 35%; */
+  border: 1px solid red;
+}
+
+/* .searchBox {
+  width: 100px;
+  border: 1px solid black;
+} */
+
+.inputBox {
+  width: 500px;
+}
+
+.cityLogo {
+  /* border: 1px solid; */
+  width: 90%;
+  margin: 5px;
+}
+.cityLogo :hover {
+  border: 1px solid red;
+  border-radius: 10px;
+}
+.cityLogo span {
+  text-align: center;
+}
+
+.allCity {
+  display: grid;
+  align-items: center;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(8, 1fr);
+}
+
+#chakra-modal-mymodal {
+  /* margin-top: 30px; */
+  width: 1000px;
+  height: 1000px;
+}
+
+.spanName {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.loginBtn {
+  color: white;
+  border-radius: 10px;
+  font-size: 12px;
+}
+.profilebtn :hover {
+  border: 1px solid orangered;
+}
+.searchBox {
+  width: 500px;
+  height: 40px;
+
+  border: 1px solid rgb(63, 61, 61);
+  border-radius: 7px;
+}
+
+.productPage {
+  min-height: 800px;
+}
+.overFlowDiv {
+  background-color: white;
+  position: fixed;
+  margin-top: 5px;
+  width: 500px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  text-align: left;
+  padding-left: 15px;
+}
+.blankCartimg {
+  width: 70%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cnt {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.__login__signup__ {
+  background: tomato;
+  transition: 0.3s linear;
+}
+
+.__login__signup__:hover {
+  background-color: limegreen;
+}
+
+.__cart___data____ {
+  position: relative;
+}
+
+._cart__counting_ {
+  position: absolute;
+  border-radius: 50%;
+  top: 0px;
+  right: 0px;
+  font-size: 14px;
+  background-color: tomato;
+  color: black;
+  font-weight: bold;
+  padding: 2px 5px;
+}
+
+@media (max-width: 1024px) {
+  /* .searchBox {
+    width: 300px;
+  }
+  .inputBox {
+    width: 300px;
+  }
+  .__location__none__ {
+    display: none;
+  }
+
+  .__cart_Text_none {
+    display: none;
+  } */
+
+  .__logo_none__ {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .searchBox {
+    width: 300px;
+  }
+  .inputBox {
+    width: 300px;
+  }
+  /* .__location__none__ {
+    display: none;
+  } */
+
+  .__cart_Text_none {
+    display: none;
+  }
+
+  .__logo_none__ {
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .searchBox {
+    width: 180px;
+  }
+  .inputBox {
+    width: 180px;
+  }
+  .__location__none__ {
+    display: none;
+  }
+
+  .__cart_Text_none {
+    display: none;
+  }
+
+  .__logo_none__ {
+    display: none;
+  }
+  /* .loginBtn{
+    width: 20px;
+    font-size: x-small;
+    /* content: "login"; */
+  /* } */
+}
