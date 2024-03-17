@@ -1,19 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import Footer from "./Components/Footer/Footer";
 import Navbar from "./Components/LoginAndNavbar/Navbar";
 import ScrollToTop from "./Components/ScrollToTop";
 import MainRoutes from "./Pages/MainRoutes";
-import Footer from "./Components/Footer/Footer";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <Navbar />
       <ScrollToTop />
       <MainRoutes />
       <Footer />
     </div>
   );
-}
+};
 
 export default App;
