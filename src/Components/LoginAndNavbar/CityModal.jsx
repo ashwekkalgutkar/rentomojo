@@ -13,7 +13,7 @@ export default function CityModal({ isOpen, onClose }) {
   const cityData = [
     { id: 1, name: "Bangalore", url: "/imagess/Banglore.png" },
     { id: 2, name: "Mumbai", url: "/imagess/Mumbai.png" },
-    { id: 3, name: "Pune", url: "/imagess/Pune.png" },
+    { id: 3, name: "Pune", url: "/imagess/pune.png" },
     { id: 4, name: "Delhi", url: "/imagess/Delhi.png" },
     { id: 5, name: "Noida", url: "/imagess/Noida.png" },
     { id: 6, name: "Gurgaon", url: "/imagess/Gurgaon.png" },
