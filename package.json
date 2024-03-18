@@ -11,6 +11,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "ajv": "^8.12.0",
+    "apexcharts": "^3.47.0",
     "axios": "^1.6.8",
     "chakra-ui-simple-autocomplete": "^2.3.0",
     "framer-motion": "^7.10.2",

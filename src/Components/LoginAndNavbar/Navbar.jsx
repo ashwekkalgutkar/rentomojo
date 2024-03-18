@@ -108,7 +108,7 @@ const Navbar = () => {
             color="tomato"
             fontFamily="sans-serif"
           >
-            <Link to={`/${city}`}> rentmojo </Link>
+            <Link to={`/${city}`}> rentomojo </Link>
           </Text>
         </Box>
         <Box className="__location__none__">
