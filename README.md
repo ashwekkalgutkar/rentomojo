@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# rentmojo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Unit 6 Construct Week Project**
 
-## Available Scripts
+**dead-rail-6352**
 
-In the project directory, you can run:
+**rentmojo Clone**
 
-### `npm start`
+# Deployed Link:-
+- 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Ashwek Kalgutkar -> [GitHub](https://github.com/ashwekkalgutkar) , [Linkedin](https://www.linkedin.com/in/ashwek-kalgutkar/)
 
-### `npm test`
+## Rohan -> [GitHub](https://github.com/RohanKansara01) , [Linkedin](https://www.linkedin.com/in/rohankansara/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Tech Stack:-
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- Redux
+- axios
+- ChakraUI
 
-### `npm run build`
+# Project Description:-
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+RentMojo is a pioneering online platform that offers hassle-free rental solutions for a wide range of products, including furniture, appliances, electronics, and more. With flexible rental plans and convenient delivery options, RentMojo simplifies the process of accessing essential items without the burden of ownership. Our user-friendly website provides a seamless browsing experience, making it easy for customers to find and rent items tailored to their needs.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Website Screenshots:-
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Homepage:-**
+![rentmojo_homepage](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/1809443d-e62b-4c17-afa2-cfb185b67ffc)
+![rentmojo_homepage_responsive](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/f8a5356d-c495-449b-9298-e814c7678855)
 
-### `npm run eject`
+- **Login Page and SignUp Page:-**
+![signup_page](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/a32e2f96-55b9-479a-aa51-85946d75a8a0)
+![login_page](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/db382178-1391-470e-9f33-871e2cc49581)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Products and Product Details Page:-**
+![product_category_page](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/4a970f3d-c311-4c84-bfe7-dea5afbec23a)
+![product_category_page_responsive](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/cab23748-450d-436f-9d56-08f6b06d0ed3)
+![product_page](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/44631c49-850c-4d39-aa33-bcd8525fc84b)
+![product_details_page](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/8f81f70a-6f93-4e2b-8deb-f01df3328e86)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Cart Page:-**
+![cart_page](https://github.com/ashwekkalgutkar/rentomojo/assets/142526317/39b12079-1325-4b28-9531-4aceb2935e85)
