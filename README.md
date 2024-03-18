@@ -1,13 +1,13 @@
-# rentmojo
+# rentomojo
 
 **Unit 6 Construct Week Project**
 
 **dead-rail-6352**
 
-**rentmojo Clone**
+**rentomojo Clone**
 
 # Deployed Link:-
-- 
+- https://rentomojo-eight.vercel.app
 
 ## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
