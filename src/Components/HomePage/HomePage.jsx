@@ -3,15 +3,15 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import styles from "./HomePage.module.css";
 import "./Carousel.css";
-import { IoIosArrowDroprightCircle } from "react-icons/io";
+// import { IoIosArrowDroprightCircle } from "react-icons/io";
 
-import img1 from "../../Assets/carouselImage/bangalore.gif";
-import img2 from "../../Assets/carouselImage/fitness.jpg";
-import img3 from "../../Assets/carouselImage/ac.jpg";
-import img4 from "../../Assets/carouselImage/paytm.jpg";
+import img1 from "../../Assets/carouselImage/Mattress_banner_HP.jpg";
+import img2 from "../../Assets/carouselImage/Furniture_HP.jpg";
+import img3 from "../../Assets/carouselImage/appliances_HP.jpg";
+import img4 from "../../Assets/carouselImage/Bed_HP.jpg";
 
 // icons
-import covid_icon from "../../Assets/carouselImage/protection.png";
+// import covid_icon from "../../Assets/carouselImage/protection.png";
 import { Link } from "react-router-dom";
 import ProductCarousel from "./ProductCarousel";
 
@@ -276,7 +276,7 @@ const HomePage = () => {
               <img key={i} src={item} alt="img_slide" />
             ))}
           </Carousel>
-          <div className={styles.covid_19_saftey}>
+          {/* <div className={styles.covid_19_saftey}>
             <span>
               <img src={covid_icon} alt="covid" />
             </span>
@@ -289,7 +289,7 @@ const HomePage = () => {
                 Know more <IoIosArrowDroprightCircle />
               </span>
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
 
